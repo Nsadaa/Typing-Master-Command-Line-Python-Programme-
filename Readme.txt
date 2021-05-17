@@ -1,6 +1,6 @@
 ------------Typing Master --------------
 
-- This is simple typing master game which is created by using python comandline.
+- This is simple typing master game which is created by using python PyCharm
 - In here use python,
 	- Thread module.
 	- Randome module.
